@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=kyoungjin%20Lim&fontSize=90&animation=fadeIn)
-
 ### Hi there, 👋   
 
  - 👩🏻‍💻   **I'm a rising junior studying Computer Science & Cognitive Science**    
