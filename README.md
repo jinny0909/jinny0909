@@ -11,9 +11,9 @@
 
 ###  Currently working on ..
  - 💻   **Learning iOS, BE SOPT 28th**  
- - 🔬   **Machine Learning at Delineo Pandemic Modeling team **
+ - 🔬   **Machine Learning at Delineo Pandemic Modeling team**
 
-###  🛠 Tech Stack🛠
+###  🛠 Tech Stack 🛠
 <p alighn = "center">
 
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/> 
