@@ -1,16 +1,19 @@
 ### Hi there, 👋   
 
- - 👩🏻‍💻   **I'm a rising junior studying Computer Science & Cognitive Science**    
- - 🇰🇷🇺🇸  **based in Seoul & Baltimore**
+ - 👩🏻‍💻   **I'm a rising junior studying Computer Science & Cognitive Science, based in Seoul & Baltimore 🇰🇷🇺🇸**    
  - 🌱  **Interested in iOS App Development, Artificial Intelligence, Product Management**
 
+### 📚 Project Portfolio
 
-### How to reach me? 🤔
+|   Project      |    🛠 tech stack     | Period| Repo Link   |
+| :-------------: |:-------------:| :-----:| :-----:|
+| Omoolen | iOS App, Swift  | 2021/06/26 - 2021/07/17 | [➡️](https://github.com/TeamOmoolen/TeamOmoolen-iOS) |
+| EatCounts | Web App, React  | 2021/01/30 - 2021/01/31 | [➡️](https://github.com/jinny0909/eatcounts) |
+| Delineo Pandamic Modeling | Research, Python  | 2020/09 - | [➡️](https://github.com/jinny0909/PandemicModel)|
 
-- 📮  **[![Outlook Badge](https://img.shields.io/badge/email-outlook-blue?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:klim30@gmail.com)](mailto:fomagran6@gmail.com)**
 
 ###  Currently working on ..
- - 💻   **Learning iOS, BE SOPT 28th**  
+ - 💻   **Learning iOS**  
  - 🔬   **Machine Learning at Delineo Pandemic Modeling team**
 
 ###  🛠 Tech Stack 🛠
