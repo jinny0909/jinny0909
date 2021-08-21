@@ -7,9 +7,9 @@
 
 |   Project      |    🛠 tech stack     | Period| Repo Link   |
 | :-------------: |:-------------:| :-----:| :-----:|
-| Omoolen | iOS App, Swift  | 2021/06/26 - 2021/07/17 | [➡️](https://github.com/TeamOmoolen/TeamOmoolen-iOS) |
-| EatCounts | Web App, React  | 2021/01/30 - 2021/01/31 | [➡️](https://github.com/jinny0909/eatcounts) |
-| Delineo Pandamic Modeling | Research, Python  | 2020/09 - | [➡️](https://github.com/jinny0909/PandemicModel)|
+| 👁 Omoolen | iOS App, Swift  | 2021/06/26 - 2021/07/17 | [➡️](https://github.com/TeamOmoolen/TeamOmoolen-iOS) |
+| 🥙 EatCounts | Web App, React  | 2021/01/30 - 2021/01/31 | [➡️](https://github.com/jinny0909/eatcounts) |
+| 🦠 Delineo Pandamic Modeling | Research, Python  | 2020/09 - | [➡️](https://github.com/jinny0909/PandemicModel)|
 
 
 ###  Currently working on ..
