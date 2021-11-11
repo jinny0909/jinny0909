@@ -11,7 +11,7 @@
 | Omoolen | iOS App, Swift  | 2021/06/26 - 2021/07/17 | [👁](https://github.com/jinny0909/TeamOmoolen-iOS) |
 | EatCounts | Web App, JS•CSS•HTML  | 2021/01/30 - 2021/01/31 | [🥙](https://github.com/jinny0909/eatcounts) |
 | DreamPiece | iOS App, Swift  | 2021/05/22 - 2021/05/23 | [🛌](https://github.com/jinny0909/GGumPiece_iOS) |
-| Delineo Pandamic Modeling | Research, Python  | 2020/09 - | [🦠](https://github.com/jinny0909/PandemicModel)|
+| Delineo Pandamic Modeling | Research, Python  | 2020/09 - 2021/08 | [🦠](https://github.com/jinny0909/PandemicModel)|
 
 
 ###  Currently working on ..
