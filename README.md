@@ -8,6 +8,7 @@
 |   Project      |    🛠 tech stack     | Period| Repo Link   |
 | :-------------: |:-------------:| :-----:| :-----:|
 | SOLID |Web App, Java | 2021/09 - 2021/12 | coming soon! |
+| Reinforcement Learning Research | Python | 2021/09 - 2022/02 |  |
 | Omoolen | iOS App, Swift  | 2021/06/26 - 2021/07/17 | [👁](https://github.com/jinny0909/TeamOmoolen-iOS) |
 | EatCounts | Web App, JS•CSS•HTML  | 2021/01/30 - 2021/01/31 | [🥙](https://github.com/jinny0909/eatcounts) |
 | DreamPiece | iOS App, Swift  | 2021/05/22 - 2021/05/23 | [🛌](https://github.com/jinny0909/GGumPiece_iOS) |
