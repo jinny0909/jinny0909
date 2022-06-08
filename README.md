@@ -16,8 +16,7 @@
 
 
 ###  Currently working on ..
- - 💻   **Learning iOS**  
- - 🔬   **Machine Learning at Delineo Pandemic Modeling team**
+ - 💻   2022 SDE intern @ Amazon 
 
 ###  🛠 Tech Stack 🛠
 <p alighn = "center">
