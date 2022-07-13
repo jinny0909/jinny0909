@@ -7,7 +7,8 @@
 
 |   Project      |    🛠 tech stack     | Period| Repo Link   |
 | :-------------: |:-------------:| :-----:| :-----:|
-| SOLID |Web App, Java | 2021/09 - 2021/12 | coming soon! |
+| Database Course Project | Python, PHP, HTML | 2022 Spring | [📈](https://github.com/jinny0909/Spring-22-Database-Project) |
+| SOLID |Web App, Java | 2021/09 - 2021/12 |  |
 | Reinforcement Learning Research | Python | 2021/09 - 2022/02 | [🤖](https://github.com/jinny0909/RLResearch)  |
 | Omoolen | iOS App, Swift  | 2021/06/26 - 2021/07/17 | [👁](https://github.com/jinny0909/TeamOmoolen-iOS) |
 | EatCounts | Web App, JS•CSS•HTML  | 2021/01/30 - 2021/01/31 | [🥙](https://github.com/jinny0909/eatcounts) |
