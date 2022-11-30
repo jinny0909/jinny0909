@@ -1,6 +1,6 @@
 ### Hi there, 👋   
 
- - 👩🏻‍💻   **I'm a rising senior studying Computer Science & Cognitive Science, based in Seoul & Baltimore 🇰🇷🇺🇸**    
+ - 👩🏻‍💻   **I'm a senior studying Computer Science & Cognitive Science, based in Seoul & Baltimore 🇰🇷🇺🇸**    
  - 🌱  **Interested in iOS App Development, Artificial Intelligence, Product Management**
 
 ### 📚 Project Portfolio
