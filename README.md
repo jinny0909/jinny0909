@@ -7,12 +7,17 @@
 
 |   Project      |    🛠 tech stack     | Period| Repo Link   |
 | :-------------: |:-------------:| :-----:| :-----:|
+| Issue Tracker | HTML, CSS, JS | 2022 Fall| [📊](https://github.com/dokker19/IssueTracker) |
 | Database Course Project | Python, PHP, HTML | 2022 Spring | [📈](https://github.com/jinny0909/Spring-22-Database-Project) |
 | SOLID |Web App, Java | 2021/09 - 2021/12 |  |
-| Reinforcement Learning Research | Python | 2021/09 - 2022/02 | [🤖](https://github.com/jinny0909/RLResearch)  |
 | Omoolen | iOS App, Swift  | 2021/06/26 - 2021/07/17 | [👁](https://github.com/jinny0909/TeamOmoolen-iOS) |
 | EatCounts | Web App, JS•CSS•HTML  | 2021/01/30 - 2021/01/31 | [🥙](https://github.com/jinny0909/eatcounts) |
 | DreamPiece | iOS App, Swift  | 2021/05/22 - 2021/05/23 | [🛌](https://github.com/jinny0909/GGumPiece_iOS) |
+
+### 🥽 Research Experience
+|   Project      |    🛠 tech stack     | Period| Repo Link   |
+| :-------------: |:-------------:| :-----:| :-----:|
+| Reinforcement Learning Research | Python | 2021/09 - 2022/02 | [🤖](https://github.com/jinny0909/RLResearch)  |
 | Delineo Pandamic Modeling | Research, Python  | 2020/09 - 2021/08 | [🦠](https://github.com/jinny0909/PandemicModel)|
 
 
